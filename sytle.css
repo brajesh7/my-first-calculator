@@ -1,0 +1,27 @@
+#calculator{
+border: 2px solid black;
+width: 250px;
+background-color: green;
+color: white;
+text-align: center;
+margin: auto;
+height: 430px;
+
+} 
+#Rajesh{
+    width: 243px; ;
+}
+
+
+input{
+    width: 80px;
+    height: 60px;
+    font-size: 30px;
+    border: 3px solid black;
+    color: white;
+    background-color:rgb(230, 115, 115);
+
+}
+#clearbutton{
+    width: 250px;
+}
